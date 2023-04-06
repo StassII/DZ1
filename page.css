@@ -1,0 +1,51 @@
+body {
+    font-family: 'Playfair Display', serif;
+    font-family: 'Ubuntu', sans-serif;
+    display: flex;
+}
+.header {
+    text-align: center;
+    text-decoration: none;
+}
+
+.div2 {
+    margin: 70px 315px 0 315px;
+}
+
+.img {
+    width: 420px;
+    height: 280px;
+    margin: 92px 0 0 300px;
+}
+
+.p {
+    color: #B4AD9E;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    margin: 62px 0 0 300px;
+}
+
+.p1 {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 40px;
+    color: #626262;
+    margin: 32px 0 0 300px;
+}
+
+.p2 {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #626262;
+    width: 420px;
+    height: 76px;
+    margin: 40px 0 0 300px;
+}
